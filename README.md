@@ -28,5 +28,5 @@ g++ udp_asynserver.cpp -o udp_asynserver -lboost_system -lboost_thread-mt
 - 存在问题：还未能实现多线程
 
 
-###1.3 使用注意
+### 1.3 使用注意
 - 每次编译前要确保客户端和服务器端的端口号相同。
